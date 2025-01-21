@@ -575,4 +575,9 @@ body{
     font-weight: 400;
 }
 
+@media (max-width: 768px) {
+    .header_item{
+        color: #d2b48c;
+    }
+}
 
